@@ -354,9 +354,4 @@
     :maxdepth: 2
     :hidden:
 
-    preface
-    tutorial/index
-    user_guide
-    auto_examples/index
     modules/classes
-    developers/index
